@@ -17,5 +17,5 @@ require_once '../DAO/UtilDAO.php';
     <div style="color: white;
 padding: 15px 50px 5px 50px;
 float: right;
-font-size: 16px;">Olá, <?= UtilDAO::NomeLogado() ?>. Dúvidas ligue para: (00) 99999-9999</div>
+font-size: 16px;">Olá, <?= UtilDAO::NomeLogado() ?>. Precisa de um sistema? (43) 99104-9341(Tomás)</div>
 </nav>
